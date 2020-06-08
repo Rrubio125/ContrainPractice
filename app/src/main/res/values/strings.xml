@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContrainPractice</string>
+    <string name="order">ORDER NUMBER</string>
+    <string name="state">Pending</string>
+    <string name="arrive">Estimated wait time after check-in: 10 min</string>
+    <string name="follow">Your order has ben received. Follow the instructions below to complete your order.</string>
+    <string name="steps">NEXT STEPS</string>
+    <string name="location">Head to Coasters Diner</string>
+    <string name="info">GET DIRECTIONS</string>
+    <string name="otherstate">Check-in your order when you arrive and receive your pickup time. This to ensure the freshest food possible.</string>
+    <string name="check">CHECK-IN ORDER</string>
+    <string name="help">If you need more time, you can check-in your order at any time from the app Home screen.</string>
+    <string name="image0">food</string>
+    <string name="image1">clock</string>
+    <string name="image2">walkingman</string>
+    <string name="image3">stick</string>
+</resources>
